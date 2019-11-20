@@ -1,0 +1,4 @@
+numero de tareas pendientes : 2
+numero de tareas en progreso : 1
+numero de tareas terminadas : 0
+numero de tareas entregadas : 1
